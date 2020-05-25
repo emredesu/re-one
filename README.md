@@ -3,18 +3,16 @@
 
 Re:One features:
 
-1- Amazing original artwork!
+<b>1- Amazing original artwork!</b>
 
-<img src="https://imgur.com/n9rb0SC"/>
+<img src="https://i.nuuls.com/msLZQ.png"/>
 
-2- Fun and interactive gameplay!
+<b>2- Fun and interactive gameplay!</b>
 
-<img src="https://imgur.com/j5SIOaI"/>
+<img src="https://i.nuuls.com/TcM1x.png"/>
 
-3- Multiple endings!
+<b>3- Multiple endings!</b>
 
-<img src="https://imgur.com/wuz3SV8"/>
-
-4- A highscore system for replayability!
+<b>4- A highscore system that rewards skill for replayability!</b>
 
 seriously though this is just a badly made bullet hell game please don't expect anything (＠＾◡＾)
