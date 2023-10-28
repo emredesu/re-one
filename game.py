@@ -42,7 +42,7 @@ def game():
 	normal_music.pause()
 	boss_music.pause()
 
-	font = pygame.font.Font("Calibri 400.ttf", 24)
+	font = pygame.font.Font(None, 24)
 
 	pygame.display.set_caption("re:one")
 
